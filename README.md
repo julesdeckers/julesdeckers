@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### daily.dev
-<a href="https://app.daily.dev/nicedev666"><img src="https://api.daily.dev/devcards/a9590081e8f84d3ebb95a8930141648d.png?r=zvh" width="400" alt="Jules's Dev Card"/></a>
+<!-- ### daily.dev
+<a href="https://app.daily.dev/nicedev666"><img src="https://api.daily.dev/devcards/a9590081e8f84d3ebb95a8930141648d.png?r=zvh" width="400" alt="Jules's Dev Card"/></a> -->
 
 <!--
 **julesdeckers/julesdeckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
